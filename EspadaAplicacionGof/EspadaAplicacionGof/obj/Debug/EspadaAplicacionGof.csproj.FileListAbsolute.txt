@@ -1,0 +1,12 @@
+c:\users\e5-575g\documents\visual studio 2015\Projects\EspadaAplicacionGof\EspadaAplicacionGof\bin\Debug\EspadaAplicacionGof.exe.config
+c:\users\e5-575g\documents\visual studio 2015\Projects\EspadaAplicacionGof\EspadaAplicacionGof\bin\Debug\EspadaAplicacionGof.exe
+c:\users\e5-575g\documents\visual studio 2015\Projects\EspadaAplicacionGof\EspadaAplicacionGof\bin\Debug\EspadaAplicacionGof.pdb
+c:\users\e5-575g\documents\visual studio 2015\Projects\EspadaAplicacionGof\EspadaAplicacionGof\obj\Debug\EspadaAplicacionGof.csprojResolveAssemblyReference.cache
+c:\users\e5-575g\documents\visual studio 2015\Projects\EspadaAplicacionGof\EspadaAplicacionGof\obj\Debug\EspadaAplicacionGof.exe
+c:\users\e5-575g\documents\visual studio 2015\Projects\EspadaAplicacionGof\EspadaAplicacionGof\obj\Debug\EspadaAplicacionGof.pdb
+E:\GOF\EspadaAplicacionGof\EspadaAplicacionGof\bin\Debug\EspadaAplicacionGof.exe.config
+E:\GOF\EspadaAplicacionGof\EspadaAplicacionGof\obj\Debug\EspadaAplicacionGof.exe
+E:\GOF\EspadaAplicacionGof\EspadaAplicacionGof\obj\Debug\EspadaAplicacionGof.pdb
+E:\GOF\EspadaAplicacionGof\EspadaAplicacionGof\bin\Debug\EspadaAplicacionGof.exe
+E:\GOF\EspadaAplicacionGof\EspadaAplicacionGof\bin\Debug\EspadaAplicacionGof.pdb
+E:\GOF\EspadaAplicacionGof\EspadaAplicacionGof\obj\Debug\EspadaAplicacionGof.csprojResolveAssemblyReference.cache

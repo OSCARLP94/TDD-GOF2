@@ -1,0 +1,6 @@
+c:\users\e5-575g\documents\visual studio 2015\Projects\RomanoInterpreteGof\RomanoInterpreteGof\bin\Debug\RomanoInterpreteGof.exe.config
+c:\users\e5-575g\documents\visual studio 2015\Projects\RomanoInterpreteGof\RomanoInterpreteGof\bin\Debug\RomanoInterpreteGof.exe
+c:\users\e5-575g\documents\visual studio 2015\Projects\RomanoInterpreteGof\RomanoInterpreteGof\bin\Debug\RomanoInterpreteGof.pdb
+c:\users\e5-575g\documents\visual studio 2015\Projects\RomanoInterpreteGof\RomanoInterpreteGof\obj\Debug\RomanoInterpreteGof.csprojResolveAssemblyReference.cache
+c:\users\e5-575g\documents\visual studio 2015\Projects\RomanoInterpreteGof\RomanoInterpreteGof\obj\Debug\RomanoInterpreteGof.exe
+c:\users\e5-575g\documents\visual studio 2015\Projects\RomanoInterpreteGof\RomanoInterpreteGof\obj\Debug\RomanoInterpreteGof.pdb
